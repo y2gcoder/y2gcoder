@@ -3,8 +3,8 @@
 - RDBMS(MySQL)
 
 ### Interests
-- TEST
-- Architecture
+- Testing
+- DDD
 - CI/CD
 - Other Languages(Typescript, Kotlin)
 - Other Skills(Express, Nestjs, React, Next.js)
